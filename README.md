@@ -30,6 +30,12 @@ The dataset includes:
 2. Install dependencies:
    pip install -r requirements.txt
 3. Run the notebook
+   Nirereumuhire_Marieclaire_Rwanda_FinalProject.ipynb
+
+## Key Findings
+1. Historical consumption is the strongest predictor of demand
+2. Student enrolment significantly influences consumable usage
+3. Seasonal variation impacts demand patterns
 # Next Steps
 - Pilot with real data from MINEDUC/Rwanda TVET Board
 
