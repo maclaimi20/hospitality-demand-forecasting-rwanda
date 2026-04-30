@@ -9,11 +9,17 @@ This project predicts demand for hospitality consumables in Rwandan TVET institu
 
 ## Dataset
 The dataset includes:
+- num_students
+- num_sessions_per_week
+- course_type
+- avg_session_duration,
+- historical_consumption
 - Date
 - Type of consumable
 - Quantity used
 - Number of students
 - Events/season
+- budget_allocated
 
 ## Model Used
 - Linear Regression
